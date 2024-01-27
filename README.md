@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,sklearn,tensorflow,pytorch,docker,mysql,mongodb,qt,flask,git,github,md,vscode,linux&perline=12)
 
 ### GitHub Stats Card
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinrumiao&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinrumiao&langs_count=8&theme=highcontrast&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinrumiao&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinrumiao&langs_count=8&theme=merko&layout=compact)
