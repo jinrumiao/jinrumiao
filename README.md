@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### GitHub Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinrumiao&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinrumiao&langs_count=8&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinrumiao&langs_count=8&theme=highcontrast&layout=compact)
