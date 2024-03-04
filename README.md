@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=jinrumiao&style=for-the-badge)
 
-### Tech Stack
+### Tool Box
 ![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,docker,mysql,mongodb,qt,flask,html,css,js,git,github,md,vscode,linux&perline=12)
 
 ### GitHub Stats Card
